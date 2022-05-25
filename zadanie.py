@@ -34,3 +34,5 @@ for n in range (0,101):
         divide_numbers.append(n)
 print(divide_numbers)
 print()
+
+print("Pozdrowienia dla MM czyli Marcina Mentora")
